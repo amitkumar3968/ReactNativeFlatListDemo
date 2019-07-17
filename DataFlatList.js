@@ -23,6 +23,7 @@ class DataFlatList extends React.Component {
         const unsubscribe = NetInfo.addEventListener(state => {
             console.log("Connection type", state.type);
             console.log("Is connected?", state.isConnected);
+            this.refs.toast.show( state.type+state.isConnected);
         });
 
         // Unsubscribe
