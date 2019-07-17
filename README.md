@@ -1,4 +1,5 @@
 #ReactNativeFlatListDemo
+
     info Fetching system and libraries information...
     System:
         OS: macOS 10.14.5
@@ -25,4 +26,3 @@
         react-native: 0.60.3 => 0.60.3 
       npmGlobalPackages:
         react-native-cli: 2.0.1
-
