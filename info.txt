@@ -1,4 +1,11 @@
 
+
+To do--
+1. Fill flatlist data from paginated api.
+2. use redux.
+3. load data on scrolling from bottom.
+
+
 <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
 <html>
     <head>
