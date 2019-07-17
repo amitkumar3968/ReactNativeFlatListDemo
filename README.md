@@ -26,3 +26,6 @@
         react-native: 0.60.3 => 0.60.3 
       npmGlobalPackages:
         react-native-cli: 2.0.1
+
+
+![alt text](https://github.com/amitkumar3968/ReactNativeFlatListDemo/blob/master/ss1.png)
